@@ -15,4 +15,4 @@ Do not sell the project!</h4>
 <h4>By <a href="https://python.org/downloads">clicking here</a></h4>
 <br/>
 <h2>2 - Run the Generator</h2>
-<h4>Run this <a href="https://github.com/Streyrey/Nitro-Generator/blob/main/main.py"> file</a> to access the botter</h4>
+<h4>Run this <a href="https://github.com/Streyrey/Nitro-Generator/blob/main/main.py"> file</a> to access the Generator</h4>
